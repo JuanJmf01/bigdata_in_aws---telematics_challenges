@@ -76,8 +76,5 @@ SELECT * FROM EXPO LIMIT 10;
 
 ![CreateTable_HDI](https://github.com/JuanJmf01/bigdata_in_aws---telematics_challenges/blob/main/Images/Verificar%20datos%20en%20tabla%20expo.png)
 
-### Verificacion en Hub
-
-![CreateTable_HDI]()
 
 
