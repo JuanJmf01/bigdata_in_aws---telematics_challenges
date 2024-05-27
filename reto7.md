@@ -47,7 +47,7 @@
 ### Paso 4: Archivo de Comandos Ejecutados
 
 4. **Archivo de Notas de Colab**:
-   - El archivo "Untitled0.ipynb" contiene todos los comandos ejecutados en Google Colab. Puedes adjuntarlo en esta sección.
+   - El archivo "Untitled0.ipynb" contiene todos los comandos ejecutados en Google Colab. Se encuentra en la raiz del proyecto como "Untitled0.ipynb".
 
 ### Paso 5: Ejecución en JupyterHub
 
